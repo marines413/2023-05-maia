@@ -29,7 +29,7 @@
     "node": ">=10"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "4.6.0",
+    "@openzeppelin/contracts": "4.9.3",
     "@uniswap/v2-core": "1.0.1",
     "@uniswap/v3-core": "1.0.2-solc-0.8-simulate",
     "base64-sol": "1.1.0",
